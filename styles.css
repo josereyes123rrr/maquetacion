@@ -1,0 +1,45 @@
+#hyperpop
+{
+    width: 400px;
+    background: rgb(187, 20, 20);
+    float: left;
+    position: absolute;
+    top: 40px;
+    left: 10%;
+}
+#instrumentos
+{
+    width: 90px;
+    background: rgb(67, 187, 20);
+    float: left;
+    position: relative;
+    top: 500px;
+    left: 10%;
+}
+#popularidad
+{
+    width: 400px;
+    background: rgb(20, 167, 187);
+    float: left;
+    position: absolute;
+    top: 400px;
+    left: 10%;
+
+}
+#contenido
+{
+    width: 800px;
+    background: rgb(187, 20, 20);
+    float: left;
+    position: absolute;
+    top: 200px;
+    left: 10%;
+}
+#pie
+{
+    height: 25px;
+    background: rgb(138, 38, 138);
+}
+.borra{
+    clear:both;
+}
